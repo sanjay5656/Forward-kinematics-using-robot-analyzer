@@ -38,7 +38,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### SIMULATION 
- 
+ ![image](./out1.png)
  
  
  
